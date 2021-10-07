@@ -10,9 +10,11 @@
 |        Java           |
 |     Spring-Boot       |
 |   Spring Security     |
-|         MVC           |
-|         JPA           |
-|      Validation       |
+|      Spring-MVC       |
+|    Spring-RestApi     |
+|      Spring-JPA       |
+|   Spring-Validation   |
+|        Regex          |
 |        Log4j          |
 |      Thymeleaf        |
 |      JavaScript       |
