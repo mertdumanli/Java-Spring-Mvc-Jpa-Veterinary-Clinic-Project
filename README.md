@@ -50,10 +50,12 @@
 * Validation is used to control the information received from the user when data is entered. Spring Validation has been used to prevent this problem. In case the user enters incomplete or incorrect information, it is controlled by Java and the user is prevented from making changes in the required format.
 
 
-## Demo Account
+## Available Demo Accounts
 | :closed_lock_with_key: Username | :old_key: Password |
 |----------|----------|
-| **``admin@mail.com``**| **12**|
+| **``mert@mail.com``**| **1234**|
+| **``selen@mail.com``**| **1234**|
+| **``aydın@mail.com``**| **1234**|
 
 ## Application Images
 <p>
