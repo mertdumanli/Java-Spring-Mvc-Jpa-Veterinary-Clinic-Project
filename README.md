@@ -56,6 +56,15 @@
 | **``mert@mail.com``**| **12345**|
 | **``selen@mail.com``**| **1234**|
 | **``aydın@mail.com``**| **12345**|
+| **``demo@mail.com``**| **12345**|
+
+## Roles of Existing Available Demo Accounts
+| :closed_lock_with_key: Username | :old_key: Password |
+|----------|----------|
+| **``mert@mail.com``**| **12345**|
+| **``selen@mail.com``**| **1234**|
+| **``aydın@mail.com``**| **12345**|
+| **``demo@mail.com``**| **12345**|
 
 ## Application Images
 <p>
