@@ -1,4 +1,4 @@
-# Java MVC Spring Vet Project
+# Java Spring Mvc Jpa Veterinary Clinic Project
 
 * Veteriner projesi olan bu projede, veteriner kliniklerinin genel ihtiyaçlarını karşılamaya yönelik, hızlı ve pratik bir şekilde işlemlerin gerçekleştirilmesi amacıyla bu proje tasarlanmıştır. Bu proje Spring-Boot framework kullanılarak MVC tasarım desenine uyularak tasarlanmıştır. Tasarlanma aşamasında veri tabanı olarak MySql kullanılmıştır. Veri tabanını yönetmek için ORM araçlarından JPA kullanılmıştır. Ara yüz geliştirilirken HTML, CSS, BootStrap5 ve JavaScript kullanılmıştır.  Back-end kısmında Java, JavaScript dilleri kullanılmıştır. JavaScript tarafında JQuery kullanılmıştır.  (jQuery’de Ajax yöntemleri)
 
