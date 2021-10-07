@@ -22,6 +22,11 @@
 |       Bootstrap 5     |
 |         MySql         |
 
+### Thymeleaf
+* *Arayüz geliştirilirken Thymeleaf tema motoru kullanılmıştır. Thymeleaf’te master-page yöntemi kullanılarak hiyerarşik tarzda düzen oluşturulmuştur böylece hem kod tekrarından kurtarılarak clean code amaçlanmış hem de ara yüz tasarımının kontrolü kolaylaştırılmıştır.
+* *Thymeleaf theme engine was used while developing the interface. In Thymeleaf, a hierarchical layout was created by using the master page method, so that clean code is aimed by avoiding code repetition and the control of the interface design is facilitated.
+
+
 ## Demo Account
 | :closed_lock_with_key: Username | :old_key: Password |
 |----------|----------|
