@@ -59,9 +59,10 @@
 
 ## Application Images
 <p>
+
 <a href="https://drive.google.com/file/d/1wq79LHHGr7vhjfnNXXYzGz9ZAwDXN1VL/view?usp=sharing" target="_blank">
 <img src="https://drive.google.com/file/d/1wq79LHHGr7vhjfnNXXYzGz9ZAwDXN1VL/view?usp=sharing" width="240" style="max-width:100%;"></a>
-  
+
 <a href="https://github.com/mertdumanlicse/Java-Hibernate-Servlet-JavaScript-jQuery-Warehouse-Tracking-Project/blob/main/images/2.jpg" target="_blank">
 <img src="https://github.com/mertdumanlicse/Java-Hibernate-Servlet-JavaScript-jQuery-Warehouse-Tracking-Project/blob/main/images/2.jpg" width="240" style="max-width:100%;"></a>
     
