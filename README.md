@@ -31,6 +31,24 @@
 
 * Thymeleaf theme engine was used while developing the interface. In Thymeleaf, a hierarchical layout was created by using the master page method, so that clean code is aimed by avoiding code repetition and the control of the interface design is facilitated.
 
+### Spring Security
+
+* Projemizde sayfalara erişim, yetkisiz işlem yapma gibi olumsuz durumları engellemek için güvenlik tarafında Spring Security kullanılmıştır. Kullanıcılara roller verilerek, belli sayfalara erişim hakkı tanımlanmış belli sayfalara da erişimi engellenmiştir. Dışarıdan gelebilecek saldırılara karşı programımız daha güvenli hale getirilmesi amaçlanmıştır.
+
+* In our project, Spring Security is used on the security side to prevent negative situations such as accessing pages and making unauthorized transactions. By assigning roles to users, access to certain pages with the right to access certain pages is also blocked. It is aimed to make our program more secure against external attacks.
+
+### Log4j
+
+* Projemizde sorun olması durumunda sorunun daha kolay bulunabilmesi için günlüğe hata mesajları kayıt edilmektedir. Log4j uygulama deploy edildikten sonra arka planda uygulamanın konsol kısmında hata mesajlarını yazmayarak programın gereksiz yere işlem yapmasını önler.
+
+* In case of a problem in our project, error messages are recorded in the log so that the problem can be found more easily. After the application is deployed, Log4j does not write error messages in the console part of the application in the background, preventing the program from taking unnecessary action.
+
+### Validation
+
+* Kullanıcıdan veri girişi olacağı vakit gelen bilgilerin kontrolü için doğrulama «validation» kullanılmıştır. Kullanıcı veri girişi yaparken HTML kısmında zorunlu kılınan alanlarda değişiklik yapabilir bu sorunun önüne geçebilmek için Spring Validation kullanılmıştır. Kullanıcının eksik veya yanlış bilgi girmesi durumunda Java tarafında kontrol edilmekte ve kullanıcının girmesi gereken formatta değişiklik yapması engellenmektedir.
+
+* Validation is used to control the information received from the user when data is entered. Spring Validation has been used to prevent this problem. In case the user enters incomplete or incorrect information, it is controlled by Java and the user is prevented from making changes in the required format.
+
 
 ## Demo Account
 | :closed_lock_with_key: Username | :old_key: Password |
