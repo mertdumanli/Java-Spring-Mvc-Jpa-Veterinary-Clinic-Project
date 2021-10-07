@@ -19,7 +19,7 @@
 |        jQuery         |
 |         HTML          |
 |         CSS           |
-|       Bootstrap5      |
+|       Bootstrap 5     |
 |         MySql         |
 
 ## Demo Account
